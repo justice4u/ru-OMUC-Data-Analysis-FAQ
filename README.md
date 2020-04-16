@@ -56,7 +56,7 @@
         <li><a href = "https://stepik.org/course/4852/promo"> Анализ данных с использованием Python </a></li>
 	    </li>
 	    <hr>
-	<h4>Если у вас есть предложения и вопросы, обратитесь к  модератору. <a href="https://t.me/be20motivated"> </a> </h4>                   <p>Если у вас есть предложения и вопросы, обратитесь к <a href="https://t.me/be20motivated">модератору</a>.</p>
+	<h4><p>Если у вас есть предложения и вопросы, обратитесь к <a href="https://t.me/be20motivated">модератору</a>.</p></h4>
       </ul>
 </div>
 <hr>
@@ -110,5 +110,5 @@
         <li><a href = "https://t.me/SimplePasteBot">Hastebin Telegram Bot</a></li>
     </ul>
     <h2>Предложения</h2>
-    <p>Если у вас есть предложения и вопросы, обратитесь к <a href="https://t.me/illus11on">модератору</a>.</p>
+    <h4><p>Если у вас есть предложения и вопросы, обратитесь к <a href="https://t.me/be20motivated">модератору</a>.</p></h4>
 </div>
